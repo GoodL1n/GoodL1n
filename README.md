@@ -1,2 +1,2 @@
 ### Hi there 👋
-🧢 I'm Denis, a Junior Frontend Engineer(Angular)
+🧢 I'm Denis, a FullStack Engineer(Angular/NodeJS) 
